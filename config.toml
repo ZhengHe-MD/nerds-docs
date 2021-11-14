@@ -5,3 +5,7 @@ theme = "book"
 
 [params]
   BookToC = false
+
+[markup]
+  [markup.highlight]
+    style = 'dracula'

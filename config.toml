@@ -1,4 +1,4 @@
-baseURL = "https://ZhengHe-MD.github.com/nerds-docs"
+baseURL = "https://zhenghe-md.github.io/nerds-docs/"
 languageCode = "en-us"
 title = "笨学文档"
 theme = "book"

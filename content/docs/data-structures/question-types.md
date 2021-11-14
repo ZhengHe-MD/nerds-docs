@@ -1,8 +1,6 @@
 ---
 title: "题目类型"
 date: 2021-11-14T15:35:04+08:00
-# bookComments: false
-# bookSearchExclude: false
 ---
 
 > TL;DR 👉🏻 笨学指南目前支持的题型包括：单选、多选、填空、自答。

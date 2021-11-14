@@ -1,4 +1,7 @@
 baseURL = "https://ZhengHe-MD.github.com/nerds-docs"
 languageCode = "en-us"
-title = "Learn the Hard Way"
+title = "笨学文档"
 theme = "book"
+
+[params]
+  BookToC = false

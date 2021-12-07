@@ -45,6 +45,6 @@ config:
 | 字段名   | 类型                                                         | 说明                                                         |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | `pairs`* | Map<string, string>                                          | 按正确答案配对的结果，每次生成题目时会随机打乱键值           |
-| `lhs`    | Map<string, [Content](/nerds-docs/docs/quiz/question_types/#内容单元)> | pairs 中的键对应的内容单元，如果不给，默认使用键对应的字符串 |
-| `rhs`    | Map<string, [Content](/nerds-docs/docs/quiz/question_types/#内容单元)> | Pairs 中的值对应的内容单元，如果不给，默认使用值对应的字符串 |
+| `lhs`    | Map<string, [Content](/nerds-docs/docs/content-hierarchy/questions/#内容单元)> | pairs 中的键对应的内容单元，如果不给，默认使用键对应的字符串 |
+| `rhs`    | Map<string, [Content](/nerds-docs/docs/content-hierarchy/questions/#内容单元)> | Pairs 中的值对应的内容单元，如果不给，默认使用值对应的字符串 |
 

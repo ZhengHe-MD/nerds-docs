@@ -31,6 +31,6 @@ config:
 
 | 字段名     | 类型                                                         | 说明                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| `choices`* | Map<string, [Content](/nerds-docs/docs/quiz/question_types/#内容单元)> | 键为选项标识，一般依次使用大写字母 A-Z；值为选项内容，可以使用任意支持的内容单元 |
+| `choices`* | Map<string, [Content](/nerds-docs/docs/content-hierarchy/questions/#内容单元)> | 键为选项标识，一般依次使用大写字母 A-Z；值为选项内容，可以使用任意支持的内容单元 |
 | `answers`* | List<string>                                                 | 由 `choices` 中出现过的任意一个或多个键组成                  |
 

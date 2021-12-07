@@ -55,8 +55,8 @@ config:
 
 | 字段名      | 类型                                                         | 说明                           |
 | ----------- | ------------------------------------------------------------ | ------------------------------ |
-| `stems`     | List<[Content](/nerds-docs/docs/quiz/question_types/#内容单元)> | 题干，可包含任意数量的内容单元 |
-| `explains`* | List<[Content](/nerds-docs/docs/quiz/question_types/#内容单元)> | 题解，可包含任意数量的内容单元 |
+| `stems`     | List<[Content](/nerds-docs/docs/content-hierarchy/questions/#内容单元)> | 题干，可包含任意数量的内容单元 |
+| `explains`* | List<[Content](/nerds-docs/docs/content-hierarchy/questions/#内容单元)> | 题解，可包含任意数量的内容单元 |
 
 每个题型还拥有自己特殊的字段，详见各个题型的数据结构小节。
 

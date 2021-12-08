@@ -12,8 +12,7 @@ weight: 1
 kind: FILL_IN_THE_BLANKS
 config:
   stems:
-	target: |
-		So no one ${verb} you life was gonna be this ${noun}
+  	- text: So no one ${verb} you life was gonna be this ${noun}
 	fillers:
 		verb: told
 		noun: way
@@ -28,9 +27,10 @@ config:
 
 | 字段名     | 类型                | 说明                                                         |
 | ---------- | ------------------- | ------------------------------------------------------------ |
-| `target`*  | string              | 格式为 JavaScript 的[字符串模板](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) |
 | `fillers`* | Map<string, string> | 键为 `target` 中的变量；值为对应的答案文本                   |
 | `random`   | bool                | false 表示需要完成所有填空 (默认)；true 表示只需完成随机指定的一个填空 |
+
+题干中待填空的文本格式使用 JavaScript 的[字符串模板](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)。
 
 ## 参考资料
 

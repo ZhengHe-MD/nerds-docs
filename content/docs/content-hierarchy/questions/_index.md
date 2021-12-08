@@ -15,6 +15,7 @@ weight: 1
 举例如下：
 
 ```yaml
+# markdown
 type: MARKDOWN
 text: |
    如果想要掌握多种问题的内在原则，比如：
@@ -23,14 +24,17 @@ text: |
    - 识别不同的植物
 
    你可以怎么做？
+# audio
+type: AUDIO
+text: https://learn-the-hard-way.cn/path/to/audio.wav
 ```
 
 字段说明：
 
-| 字段名  | 类型   | 说明                                     |
-| ------- | ------ | ---------------------------------------- |
-| `type`  | string | 内容类型，目前只支持 `MARKDOWN` ，可省略 |
-| `text`* | string | 内容文本，支持基本 markdown 语法         |
+| 字段名  | 类型   | 说明                                                         |
+| ------- | ------ | ------------------------------------------------------------ |
+| `text`* | string | 内容文本，其含义随着 `type` 的变化而改变<br />`MARKDOWN`：符合 markdown 格式的文本<br />`AUDIO`：音频的 URL |
+| `type`  | string | 内容类型，目前支持 `MARKDOWN`(默认) 、`AUDIO`                |
 
 #### 支持的 Markdown 语法
 
@@ -53,10 +57,10 @@ config:
 
 以下是所有类型题目的公共字段说明：
 
-| 字段名      | 类型                                                         | 说明                           |
-| ----------- | ------------------------------------------------------------ | ------------------------------ |
-| `stems`     | List<[Content](/nerds-docs/docs/content-hierarchy/questions/#内容单元)> | 题干，可包含任意数量的内容单元 |
-| `explains`* | List<[Content](/nerds-docs/docs/content-hierarchy/questions/#内容单元)> | 题解，可包含任意数量的内容单元 |
+| 字段名     | 类型                                                         | 说明                           |
+| ---------- | ------------------------------------------------------------ | ------------------------------ |
+| `stems`*   | List<[Content](/nerds-docs/docs/content-hierarchy/questions/#内容单元)> | 题干，可包含任意数量的内容单元 |
+| `explains` | List<[Content](/nerds-docs/docs/content-hierarchy/questions/#内容单元)> | 题解，可包含任意数量的内容单元 |
 
 每个题型还拥有自己特殊的字段，详见各个题型的数据结构小节。
 

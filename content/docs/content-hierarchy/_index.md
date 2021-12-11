@@ -1,6 +1,6 @@
 ---
 title: "内容结构"
-weight: 1
+weight: 2
 ---
 
 # 🏛️ 内容结构
@@ -29,11 +29,11 @@ weight: 1
 
 通常每个人需要持续投入数小时甚至数天的时间才能完成该单项的学习。
 
-## 测验
+## [测验](/nerds-docs/docs/content-hierarchy/quiz/)
 
-每个单项可能包含多组测验，用于验证当前时刻参与者对该单项核心内容的掌握情况，详见[这里](/nerds-docs/docs/content-hierarchy/quiz/)。
+每个单项可能包含多组测验，用于验证当前时刻参与者对该单项核心内容的掌握情况。
 
-## 题目
+## [题目](/nerds-docs/docs/content-hierarchy/questions/)
 
-每个测验包含至少一道题目。题目是最小的测验单元，用于验证参与者是否了解某个知识点，详见[这里](/nerds-docs/docs/content-hierarchy/questions/)。
+每个测验包含至少一道题目。题目是最小的测验单元，用于验证参与者是否了解某个知识点。
 

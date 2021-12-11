@@ -9,3 +9,6 @@ theme = "book"
 [markup]
   [markup.highlight]
     style = 'dracula'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

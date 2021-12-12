@@ -32,7 +32,7 @@ text: https://learn-the-hard-way.cn/path/to/audio.wav
 
 | 字段名  | 类型   | 说明                                                         |
 | ------- | ------ | ------------------------------------------------------------ |
-| `text`* | string | 内容文本，其含义随着 `type` 的变化而改变<br />`MARKDOWN`：符合 markdown 格式的文本<br />`AUDIO`：音频的 URL |
+| `text`* | string | 内容文本，其含义随着 `type` 的变化而改变<br />`MARKDOWN`：符合 markdown 格式的文本<br />`AUDIO`：音频的 URL<br />`CODE_BLOCK`：代码块 |
 | `type`  | string | 内容类型，目前支持 `MARKDOWN`(默认) 、`AUDIO`                |
 
 #### 支持的 Markdown 语法

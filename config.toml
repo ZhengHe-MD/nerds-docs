@@ -3,6 +3,12 @@ languageCode = "en-us"
 title = "笨学文档"
 theme = "book"
 
+[menu]
+[[menu.after]]
+  name = "博客"
+  url = "https://zhenghe-md.github.io/blog/tags/笨学指南/"
+  weight = 10
+
 [params]
   BookToC = false
 

@@ -1,6 +1,6 @@
 baseURL = "https://zhenghe-md.github.io/nerds-docs/"
 languageCode = "en-us"
-title = "笨学文档"
+title = "笨学指南文档"
 theme = "book"
 
 [menu]

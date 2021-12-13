@@ -1,7 +1,6 @@
 ---
 title: "内容结构"
 weight: 2
-bookFlatSection: true
 ---
 
 # 🏛️ 内容结构

@@ -2,7 +2,6 @@
 title: "题目"
 date: 2021-11-14T15:47:14+08:00
 weight: 2
-bookCollapseSection: true
 ---
 
 # 题目

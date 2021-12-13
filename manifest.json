@@ -1,6 +1,6 @@
 {
-  "name": "笨学文档",
-  "short_name": "笨学文档",
+  "name": "笨学指南文档",
+  "short_name": "笨学指南文档",
   "start_url": "/nerds-docs/",
   "scope": "/nerds-docs/",
   "display": "standalone",

@@ -1,6 +1,6 @@
 ---
 title: "快速上手"
-weight: 2
+weight: 5
 bookFlatSection: true
 ---
 

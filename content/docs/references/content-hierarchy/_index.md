@@ -1,6 +1,7 @@
 ---
 title: "内容结构"
 weight: 2
+bookCollapseSection: true
 ---
 
 # 🏛️ 内容结构

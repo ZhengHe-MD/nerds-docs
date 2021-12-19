@@ -26,7 +26,7 @@ bookFlatSection: true
 
 这份文档将包括但不限于：
 
-* **[关于学习](/nerds-docs/docs/plan/metacognition/)**：我对「学习这件事本身」的调研和理解
+* **[关于学习](/nerds-docs/docs/plan/metacognition/strategies)**：我对「学习这件事本身」的调研和理解
 * **问题阐述**：「笨学指南」想要解决的问题定位和分析
 * **用户调研**：与用户的访谈记录及其分析
 * **方案设计**：不同阶段、不同层次的方案和实施计划以及背后的动机
@@ -37,4 +37,8 @@ bookFlatSection: true
 * 点击[此项目主页](https://github.com/ZhengHe-MD/nerds-docs)右上角的 Watch，但可能收到一些[不必要的通知](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications)
 * 发送邮件到 ranchardzheng_AT_gmail_DOT_com，我暂时手动推送
 
-此外我郑重承诺：不会利用文档本身的内容向索取您任何金钱，可以放心围观。如果您有任何反馈，也欢迎通过邮件与我取得联系。
+也许你还可能关心以下几点：
+
+* 我个人不会利用文档本身的内容向索取您任何金钱，可以放心围观
+* 如果您有任何反馈，也欢迎通过邮件与我取得联系
+* 这里的文章允许转载，但请务必注明出处

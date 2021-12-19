@@ -10,7 +10,10 @@ theme = "book"
   weight = 10
 
 [params]
-  BookToC = false
+  BookTheme = 'light'
+  BookToC = true
+  BookRepo = 'https://github.com/ZhengHe-MD/nerds-docs'
+  BookEditPath = 'edit/main'
 
 [markup]
   [markup.highlight]
@@ -18,3 +21,7 @@ theme = "book"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+googleAnalytics = "UA-172943223-4"
+enableGitInfo = true
+disqusShortname = "nerds-docs"

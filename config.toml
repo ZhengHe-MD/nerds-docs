@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "笨学指南文档"
 theme = "book"
 
+googleAnalytics = "UA-172943223-4"
+disqusShortname = "nerds-docs"
+enableGitInfo = true
+
 [menu]
 [[menu.after]]
   name = "博客"
@@ -22,6 +26,3 @@ theme = "book"
     [markup.goldmark.renderer]
       unsafe = true
 
-googleAnalytics = "UA-172943223-4"
-enableGitInfo = true
-disqusShortname = "nerds-docs"

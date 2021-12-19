@@ -9,7 +9,7 @@ bookFlatSection: true
 
 「笨学指南」是我思考了很长时间，仍然觉得很有意义，符合个人价值观，值得我去坚持不懈、为之努力的一个项目。
 
-[Colin Bryar](https://g.co/kgs/n5pDcS) 在 a16z [podcast EP623](https://future.a16z.com/podcasts/working-backwards-amazon-bezos-memos-releases-narratives/) 中提到：AWS 项目在启动前至少花了 18 个月在制定计划上，甚至期间有工程师曾对他说道：
+[Colin Bryar](https://g.co/kgs/n5pDcS) 在 a16z 的官方播客 [EP623](https://future.a16z.com/podcasts/working-backwards-amazon-bezos-memos-releases-narratives/) 中提到：AWS 项目在启动前至少花了 18 个月在制定计划上，甚至期间有工程师曾对他说道：
 
 > "Hey, can you remind Jeff that our job is to write software code, not documents?"
 
@@ -18,18 +18,23 @@ bookFlatSection: true
 1. **时间太少**：扣除工作学习每周不足两天时间
 2. **思考不足**：东一榔头西一棒槌没有系统思路
 
-**时间太少**当然也是**思考不足**的重要原因之一。考虑到资源有限，我更应该做到：
+诚然，**时间太少**也是**思考不足**的重要原因之一。考虑到资源有限，我更应该尝试：
 
 > "Slow down to speed up"
 
-因此我决定将我的计划逐步落地成计划文档，帮助我理清思路，同时收集反馈，提高资源利用率，让「笨学指南」走得更远，最终实现「让每个人的学习更高效」的目标。
+于是我决定将计划先逐步**落地成文档**，帮助自己**理清思路**。同时**收集反馈**，**提高资源利用率**，让「笨学指南」走得更远，最终实现「**让每个人的学习更高效**」的目标。
 
 这份文档将包括但不限于：
 
-* 我对「学习这件事本身」的调研和理解
-* 要解决的问题
-* 用户调研分析
-* 不同阶段、不同层次的方案和实施计划以及背后的动机
-* 其它任何与项目相关的思考
+* **[关于学习](/nerds-docs/docs/plan/metacognition/)**：我对「学习这件事本身」的调研和理解
+* **问题阐述**：「笨学指南」想要解决的问题定位和分析
+* **用户调研**：与用户的访谈记录及其分析
+* **方案设计**：不同阶段、不同层次的方案和实施计划以及背后的动机
+* **相关思考**：其它任何与项目相关的思考
 
-如果你对此感兴趣，也想知道我是如何一步一步地凭借一己之力推进「笨学指南」，欢迎订阅 (目前可以先发送邮件到 ranchardzheng@gmail.com 告知，后续补充更友好的订阅方式) 这份文档的更新。此外我承诺：不会利用文档本身的内容向索取您任何金钱。
+如果你对此感兴趣，也想知道我是如何一步一步地凭借一己之力推进「笨学指南」，欢迎订阅这份文档的更新，你可以选择：
+
+* 点击[此项目主页](https://github.com/ZhengHe-MD/nerds-docs)右上角的 Watch，但可能收到一些[不必要的通知](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications)
+* 发送邮件到 ranchardzheng_AT_gmail_DOT_com，我暂时手动推送
+
+此外我郑重承诺：不会利用文档本身的内容向索取您任何金钱，可以放心围观。如果您有任何反馈，也欢迎通过邮件与我取得联系。

@@ -13,16 +13,16 @@ weight: 1
 * 学习过程中大脑如何运转
 * ...
 
-如果理解「学习这件事情本身」能帮助我们提升在各个领域的学习效率，这是否是一件很值得投入时间和精力的事？本文将列举一些在认知心理学中经过实验验证、行之有效的学习策略。内容来自于以下资料：
+如果理解「学习这件事情本身」能帮助我们提升在各个领域的学习效率，这是否是一件很值得投入时间和精力的事？本文将列举一些行之有效的学习策略。内容来自于以下资料：
 
 * [Make It Stick: The Science of Successful Learning](https://learn-the-hard-way.cn/collections/make-it-stick)
-* ...
+* [Mindset: The New Psychology of Success](https://g.co/kgs/6UrbC7)
 
 它们也许能够在未来学习的过程中潜移默化地帮助我们更快前进。
 
 ## 检索练习
 
-检索练习就是在学习后，尝试**不借助原始资料**，利用少量线索在脑中检索其中的内容。最简单、常用的一种线索就是记忆卡片 (Flashcards)，下图是注明的记忆卡片软件 [Anki](https://apps.ankiweb.net/) 的使用示例：
+检索练习是在学习后，尝试**不借助原始资料**，利用少量线索在脑中检索其中的内容。最简单、常用的一种线索就是记忆卡片 (Flashcards)，下图是注明的记忆卡片软件 [Anki](https://apps.ankiweb.net/) 的使用示例：
 
 <img src="https://getmorevocab.com/wp-content/uploads/2019/02/Ecstatic-back-of-Anki-card-656x528.png" alt="flashcard-example-1" style="zoom:80%;" />
 
@@ -79,7 +79,7 @@ weight: 1
 
 ## 阐述
 
-阐述就是**用自己的话概括新学的知识**，其玄妙之处就在于「自己的话」。
+阐述是**用自己的话概括新学的知识**，其玄妙之处就在于「自己的话」。
 
 > "There are a thousand hamlets in a thousand people's eyes" - Shakespeare
 
@@ -87,13 +87,13 @@ weight: 1
 
 <img src="https://miro.medium.com/max/595/1*TvQ2jSrAsA40rs_5s2zzJg.png" alt="convex-concave" style="zoom:85%;" />
 
-从对应汉字的字形角度出发，我会认为左边是凹，右边是凸。但如果恰好你又学过一些光学知识，你肯定遇到过下面这两种透镜：
+从汉字的字形角度出发，我会认为左边是凹，右边是凸。但如果恰好你又学过一些光学知识，你肯定遇到过下面这两种透镜：
 
 <img src="https://keydifferences.com/wp-content/uploads/2017/01/convex-vs-concave-lens-thumbnail.jpg" alt="convex-concave-lens" style="zoom:80%;" />
 
 现在如果还是从字形角度出发，我会认为左边的是凸透镜，右边的是凹透镜。而对于一个使用英语教材的人，学习并区分 「convex function」和「concave function」不是难事，因为在他们的大脑中并不存在「凹凸」这两个字。
 
-绕了一个圈，其实用凹凸来翻译 convex 和 concav 其实就是**教材译者对原始知识的阐述**。忽略这个具体例子的弄巧成拙，我们可以看出「用自己的话」实际上就是在建立新知识与累积知识的联系，并将这种联系表述出来。这种学习策略的好处在于：
+绕了一个圈，其实用凹凸来翻译 convex 和 concav 其实就是**教材译者对原始知识的阐述**，不同的译者可能因为积累的知识不同而用不同的方法阐述。忽略这个具体例子的弄巧成拙，我们可以看出「用自己的话」实际上就是在建立新知识与累积知识的联系，并将这种联系表述出来。这种学习策略的好处在于：
 
 * 通过迁移学习快速接纳新知
 * 通过建立联系同时强化二者
@@ -102,7 +102,31 @@ weight: 1
 
 ## 生成
 
-## 增长心态
+生成是**用学过的知识完成一项陌生的任务**。这里强调的是陌生，陌生让你的大脑无法因为见过它而绕过思考过程；陌生让你不得不尝试多种思路，甚至结合多种知识，多个领域，在不知不觉中完成检索练习和交叉联系；陌生也可能帮助你建立更复杂、健壮的思维模型。生成的例子有很多：写一首歌、参加比赛、即兴演讲等等。人类甚至将生成策略运用到了 AI 模型的训练中，著名的围棋 AI [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo) 在训练中就使用了与自己以及其它顶级棋手对战的方式不断强化自己。
 
-## 做规则学习者而不是案例学习者
+<img src="https://lh3.googleusercontent.com/cTaZiZNod4_aZxSYzV-MuAzavS87y838E9Zp8BHrz65_DLi3cJCESl0sDO2ucRxLByeiJ9fQFx4kC8c-6wKivikliGgNFd7c7WIfKfQ=w1440" alt="alpha-go-vs-ke-jie" style="zoom:67%;" />
+
+学习前和学习后都是使用生成策略的好时机。学习前，可以尝试完成待学内容对应的练习，无论完成与否，付出的认知努力都将加固最终的学习效果；学习后，做一些带开放性的练习，其解决思路既可来自于刚学完的知识，也可来自于所有学过的知识。
+
+## 复盘
+
+复盘本是围棋术语，指对局完毕后，复演该盘棋的每步记录并逐步分析优劣得失。稍加引申就得到我们现在所指的复盘，即在完成一个任务后，回顾整个任务过程，是否有细节的遗漏、分析的漏洞、判断的错误和改进的空间。复盘是一个综合的学习过程，会用到前面提到过的各种策略，如：
+
+* 检索：回顾的过程可能涉及知识点的检索
+* 阐述：复盘的参与者用自己的话描述事实和观点
+* 生成：找到更优的解决方案
+
+## 成长心态
+
+![growth-mindset-vs-fixed-mindset](https://www.scottbharris.com.au/assets/opengraph-images/Fixed-v-Growth.png)
+
+心态 (mindset) 是每个人看待事物的假设、方法、概念等的集合，[心理学家在研究成功心理学时发现](https://g.co/kgs/6UrbC7)：在生活和事业中取得成功的群体都具备相似的心态，这种心态被概括为成长心态 (growth mindset)，与之相对的是固定心态 (fixed mindset)，拥有此类心态的群体更难取得成功。以下是二者的对比：
+
+| 面对的人、事、物 | 成长心态           | 固定心态           |
+| ---------------- | ------------------ | ------------------ |
+| 挑战             | 拥抱挑战           | 躲避挑战           |
+| 困难             | 直面困难、坚持不懈 | 提前放弃           |
+| 努力             | 努力是必经之路     | 努力无用、天赋决定 |
+| 批评             | 从批评中学习       | 忽略有益的负面评价 |
+| 他人的成功       | 学习经验、获取灵感 | 感到威胁           |
 

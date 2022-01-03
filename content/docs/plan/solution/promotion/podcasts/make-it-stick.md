@@ -1,15 +1,15 @@
 ---
-title: "Maket It Stick"
+title: "EP01-Make It Stick"
 weight: 1
 ---
 
-# 脚本
+# EP01-Make It Stick-成功学习的科学
+
+发布于：[小宇宙](https://www.xiaoyuzhoufm.com/episodes/61d1bc2eee197a3aac3daba1) | [喜马拉雅](https://www.ximalaya.com/sound/488676346)
 
 ## 引入
 
 大家好，欢迎收听第一期笨学指南，我是郑鹤。
-
-(音乐)
 
 本期是笨学指南的第一期，我想先简单介绍一下我和这个节目。我是一名软件工程师，现在在北京工作。在这个节目中，我想与大家分享一些我发现很不错的学习资料和学习策略，它们可能来自于一些公开课、书籍、论文，播客。你可以简单地将我的介绍当作导读，感兴趣就深入了解，不感兴趣就当我帮你踩坑了。
 

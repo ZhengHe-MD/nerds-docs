@@ -5,7 +5,7 @@ weight: 1
 
 # EP01-Make It Stick-成功学习的科学
 
-发布于：[小宇宙](https://www.xiaoyuzhoufm.com/episodes/61d1bc2eee197a3aac3daba1) | [喜马拉雅](https://www.ximalaya.com/sound/488676346)
+收听：[小宇宙](https://www.xiaoyuzhoufm.com/episodes/61d1bc2eee197a3aac3daba1) | [喜马拉雅](https://www.ximalaya.com/sound/488676346)
 
 ## 引入
 
@@ -73,6 +73,7 @@ OK，我们来简单回顾一下本期节目内容。我们先讨论了「将东
 
 ## 参考资料
 
+* [笨学指南：Make It Stick 练习题集合](https://learn-the-hard-way.cn/collections/make-it-stick)
 * [Make It Stick: The Science of Successful Learning](https://g.co/kgs/D4XxLA)
 * [Youtube: Four Big Ideas from "Make It Stick"](https://www.youtube.com/watch?v=hcyEdtCiDDY)
 * [Intelligence quotient](https://en.wikipedia.org/wiki/Intelligence_quotient)

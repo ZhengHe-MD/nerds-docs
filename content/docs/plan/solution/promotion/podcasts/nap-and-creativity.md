@@ -6,6 +6,8 @@ weight: 1
 
 # EP02-捕捉睡眠中的灵光乍现
 
+收听：[小宇宙](https://www.xiaoyuzhoufm.com/episodes/61da6b9ea400c116afea3ed2) | [喜马拉雅](https://m.ximalaya.com/sound/490716835)
+
 ## 引入
 
 大家好，欢迎收听第二期笨学指南，我是郑鹤。

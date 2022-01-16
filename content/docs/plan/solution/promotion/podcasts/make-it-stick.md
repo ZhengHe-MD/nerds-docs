@@ -1,5 +1,5 @@
 ---
-title: "EP01-Make It Stick"
+title: "EP01-Make It Stick-成功学习的科学"
 weight: 1
 ---
 

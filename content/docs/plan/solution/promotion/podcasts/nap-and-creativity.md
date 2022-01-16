@@ -1,5 +1,5 @@
 ---
-title: "EP02-Nap-And-Creativity"
+title: "EP02-捕捉睡眠中的灵光乍现"
 weight: 2
 
 ---

@@ -5,6 +5,8 @@ weight: 3
 
 # EP03-做一名腰背维修师
 
+收听：[小宇宙](https://www.xiaoyuzhoufm.com/episodes/61e41376b54d285407a095cf) | [喜马拉雅](https://m.ximalaya.com/sound/493076506)
+
 ## 引入
 
 大家好，欢迎收听新一期的笨学指南，我是郑鹤。
